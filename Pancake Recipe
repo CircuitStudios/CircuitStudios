@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        .Enjoy{
+            
+            color:red;
+            
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Dallin's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#pancakes">Recipe #1</a></li>
+        </ol>
+        
+        <h2 >Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 20 minutes</li>
+            <li>Serves: 6-8 servings</li>
+        </ul>
+        
+        <table id = "pancakes">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+            <tr>
+   <td>Flour</td>
+ <td>2 cups</td>
+                 
+  </tr>
+ <tr>   
+ <td>Sugar</td>
+<td>4 tbs</td>
+  </tr>
+ <tr>
+<td>Salt</td>
+<td>4 dashes</td>
+ </tr>
+<tr>
+<td>eggs</td>
+ <td>2 medium</td>
+                </tr>
+<tr>
+        <td>milk</td>
+            <td>2 cups</td>
+</tr>
+<tr>
+<td>oil</td>
+<td>1/3 cup</td>
+</tr>
+<tr>
+        <td>bkg pwdr</td>
+            <td>2 tsp</td>
+</tr>
+            </tbody>
+        </table>
+        <ol>
+        <b>Step 1:</b>     the first thing that you need to do, is add in 2 cups of flour. Into a medium electric mixer
+        </ol>
+        <p><strong>Step 1:</strong> The first thing that you need to do, is add in 2 cups of flour.<br>
+        <strong>Step 2: </strong> add in the sugar<br>
+        <strong>Step 3:</strong> add in the salt<br>
+        <strong>Step 3:</strong> add in the baking powder<br>
+        <strong>Step 4:</strong> mix together the dry incredients<br>
+        <strong>Step 5:</strong> add in the milk, eggs, and oil
+        <strong>Step 6:</strong> pour mixture onto a greased baking pan<br>
+        <strong>Step 7:</strong> Cook pancakes for about 1 minute each and then flip<br>
+        <strong class = "Enjoy"><i class = "Enjoy">ENJOY</i></strong>
+</p>
+<p></p>
+        
+    
+    
+    </body>
+
+</html>
